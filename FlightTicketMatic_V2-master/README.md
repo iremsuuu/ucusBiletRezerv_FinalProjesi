@@ -1,4 +1,4 @@
-###### UcusBiletRezerv, uçuş rezervasyonlarını yönetmek için tasarlanmış bir Windows Forms uygulamasıdır. Uygulama, hem kullanıcıların hem de yöneticilerin oturum açarak uçuş rezervasyonları ve yönetimi ile ilgili belirli görevleri yerine getirmelerine olanak tanır.
+##### UcusBiletRezerv, uçuş rezervasyonlarını yönetmek için tasarlanmış bir Windows Forms uygulamasıdır. Uygulama, hem kullanıcıların hem de yöneticilerin oturum açarak uçuş rezervasyonları ve yönetimi ile ilgili belirli görevleri yerine getirmelerine olanak tanır.
 
 # İçindekiler :
 Özellikler
